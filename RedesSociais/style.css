@@ -1,3 +1,6 @@
-body(
-    background-color: var(--bg-color);
-)
+body{
+    background-color: pink;
+    color: bisque;
+
+}
+   
